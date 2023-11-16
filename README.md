@@ -24,7 +24,7 @@ This Python-based tool takes a GMT file as input and generates a corresponding S
    ```
 3. Install the required dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install .
    ```
 
 ## Usage
